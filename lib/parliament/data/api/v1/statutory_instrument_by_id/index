@@ -4,7 +4,7 @@
 <https://id.parliament.uk/DGMmHxFe> <https://id.parliament.uk/schema/statutoryInstrumentPaperYear> "2018"^^<http://www.w3.org/2001/XMLSchema#gYear> .
 <https://id.parliament.uk/DGMmHxFe> <https://id.parliament.uk/schema/statutoryInstrumentPaperPrefix> "SI" .
 <https://id.parliament.uk/DGMmHxFe> <https://id.parliament.uk/schema/statutoryInstrumentPaperNumber> "1116"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://id.parliament.uk/DGMmHxFe> <https://id.parliament.uk/schema/statutoryInstrumentPaperName> "Childcare (Miscellaneous Amendments) (EU Exit) (England) Regulations 2018" .
+<https://id.parliament.uk/DGMmHxFe> <https://id.parliament.uk/schema/laidThingName> "Childcare (Miscellaneous Amendments) (EU Exit) (England) Regulations 2018" .
 <https://id.parliament.uk/DGMmHxFe> <https://id.parliament.uk/schema/statutoryInstrumentPaperComingIntoForceDate> "2019-03-29+00:00"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://id.parliament.uk/DGMmHxFe> <https://id.parliament.uk/schema/statutoryInstrumentPaperMadeDate> "2018-10-24+01:00"^^<http://www.w3.org/2001/XMLSchema#date> .
 <https://id.parliament.uk/DGMmHxFe> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackagedThingWebLink> <http://www.legislation.gov.uk/uksi/2018/1116/made> .

@@ -1,7 +1,7 @@
 <https://id.parliament.uk/FMQD5WPe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/ProposedNegativeStatutoryInstrumentPaper> .
 <https://id.parliament.uk/FMQD5WPe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WorkPackagedThing> .
 <https://id.parliament.uk/FMQD5WPe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/LaidThing> .
-<https://id.parliament.uk/FMQD5WPe> <https://id.parliament.uk/schema/proposedNegativeStatutoryInstrumentPaperName> "Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2018" .
+<https://id.parliament.uk/FMQD5WPe> <https://id.parliament.uk/schema/laidThingName> "Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2018" .
 <https://id.parliament.uk/FMQD5WPe> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackagedThingWebLink> <https://www.gov.uk/eu-withdrawal-act-2018-statutory-instruments/the-air-quality-amendment-of-domestic-regulations-eu-exit-regulations-2018> .
 <https://id.parliament.uk/FMQD5WPe> <https://id.parliament.uk/schema/laidThingHasLaying> <https://id.parliament.uk/m3PHRcWO> .
 <https://id.parliament.uk/FMQD5WPe> <https://id.parliament.uk/schema/workPackagedThingHasWorkPackage> <https://id.parliament.uk/JDUfxIyI> .
